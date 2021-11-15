@@ -1,0 +1,23 @@
+{
+	"name": "squid-game",
+	"version": "1.0.0",
+	"description": "Simple game based of on a popular Netfilx seires called \"Squid Game\".",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"deploy": "gh-pages -d dist"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ibrahem-tech/squid-game.git"
+	},
+	"author": "Ebrahim Rian",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ibrahem-tech/squid-game/issues"
+	},
+	"homepage": "https://github.com/ibrahem-tech/squid-game#readme",
+	"dependencies": {
+		"gh-pages": "^3.2.3"
+	}
+}
